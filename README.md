@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dropshotcaraz
 - 👀 I’m interested in web design!
-- 🌱 I’m currently learning bootstrap 5 and tailwind css
+- 🌱 I’m currently learning laravel with tailwind css!
 - 💞️ I’m looking to collaborate on web building projects!
 
 <!---
