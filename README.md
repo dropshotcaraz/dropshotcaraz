@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm @dropshotcaraz! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer constantly learning and improving my skills across various programming languages, web development technologies, and database management systems. Here's a breakdown of what I'm currently learning and exploring:
 
