@@ -1,6 +1,6 @@
 # Hello, I'm @dropshotcaraz! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer constantly learning and improving my skills across various programming languages, web development technologies, and database management systems. Here's a breakdown of what I'm currently learning and exploring:
+Welcome to my GitHub profile! I'm a software engineering student who's constantly learning and improving my skills across various programming languages, web development technologies, and database management systems. Here's a breakdown of what I've been learning and exploring:
 
 ## 🖥️ Programming Languages
 
